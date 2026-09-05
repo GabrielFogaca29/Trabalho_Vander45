@@ -1,0 +1,14 @@
+{
+  "name": "lean-express",
+  "version": "1.0.0",
+  "description": "Sistema E-commerce CRUD para a LeanExpress",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "ejs": "^3.1.9",
+    "express": "^4.19.2",
+    "mysql2": "^3.9.2"
+  }
+}
